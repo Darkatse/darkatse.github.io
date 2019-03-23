@@ -49,8 +49,8 @@
  background-color: #a7dbd8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="H"]{
- background-color: #a7dbd8;
+#periodic-table.tc dl[itemid="H"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="H"]{
@@ -119,8 +119,8 @@
  background-color: #a7dbd8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="He"]{
- background-color: #a7dbd8;
+#periodic-table.tc dl[itemid="He"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="He"]{
@@ -189,7 +189,7 @@
  background-color: #b9b5c2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Li"]{
+#periodic-table.tc dl[itemid="Li"]{
  background-color: #aecdd0;
 }
 
@@ -259,7 +259,7 @@
  background-color: #b2c3ca;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Be"]{
+#periodic-table.tc dl[itemid="Be"]{
  background-color: #b6bcc6;
 }
 
@@ -329,8 +329,8 @@
  background-color: #b1c6cc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="B"]{
- background-color: #bfa8bb;
+#periodic-table.tc dl[itemid="B"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="B"]{
@@ -399,8 +399,8 @@
  background-color: #b0c8cd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="C"]{
- background-color: #cb8fac;
+#periodic-table.tc dl[itemid="C"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="C"]{
@@ -469,8 +469,8 @@
  background-color: #b0c9cd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="N"]{
- background-color: #a7dbd8;
+#periodic-table.tc dl[itemid="N"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="N"]{
@@ -539,8 +539,8 @@
  background-color: #afcace;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="O"]{
- background-color: #a7dbd8;
+#periodic-table.tc dl[itemid="O"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="O"]{
@@ -609,8 +609,8 @@
  background-color: #afcace;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="F"]{
- background-color: #a7dbd8;
+#periodic-table.tc dl[itemid="F"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="F"]{
@@ -679,8 +679,8 @@
  background-color: #afcace;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ne"]{
- background-color: #a7dbd8;
+#periodic-table.tc dl[itemid="Ne"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ne"]{
@@ -749,8 +749,8 @@
  background-color: #bfa8ba;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Na"]{
- background-color: #abd2d3;
+#periodic-table.tc dl[itemid="Na"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Na"]{
@@ -819,8 +819,8 @@
  background-color: #bcafbf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Mg"]{
- background-color: #b6bcc6;
+#periodic-table.tc dl[itemid="Mg"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Mg"]{
@@ -889,8 +889,8 @@
  background-color: #b8b7c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Al"]{
- background-color: #b6bcc6;
+#periodic-table.tc dl[itemid="Al"]{
+ background-color: #9cadc7;
 }
 
 #periodic-table.boiling_point dl[itemid="Al"]{
@@ -959,8 +959,8 @@
  background-color: #b7bac5;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Si"]{
- background-color: #bdacbd;
+#periodic-table.tc dl[itemid="Si"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Si"]{
@@ -1029,8 +1029,8 @@
  background-color: #b6bcc6;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="P"]{
- background-color: #a7dad7;
+#periodic-table.tc dl[itemid="P"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="P"]{
@@ -1099,8 +1099,8 @@
  background-color: #b5bdc7;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="S"]{
- background-color: #a7dad7;
+#periodic-table.tc dl[itemid="S"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="S"]{
@@ -1169,8 +1169,8 @@
  background-color: #b4bfc8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cl"]{
- background-color: #a7dad7;
+#periodic-table.tc dl[itemid="Cl"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Cl"]{
@@ -1239,8 +1239,8 @@
  background-color: #b4bfc8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ar"]{
- background-color: #a7dad8;
+#periodic-table.tc dl[itemid="Ar"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ar"]{
@@ -1309,8 +1309,8 @@
  background-color: #c993af;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="K"]{
- background-color: #abd3d3;
+#periodic-table.tc dl[itemid="K"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="K"]{
@@ -1379,8 +1379,8 @@
  background-color: #c39fb6;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ca"]{
- background-color: #afcbcf;
+#periodic-table.tc dl[itemid="Ca"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ca"]{
@@ -1449,8 +1449,8 @@
  background-color: #bdacbd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Sc"]{
- background-color: #b7bac5;
+#periodic-table.tc dl[itemid="Sc"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Sc"]{
@@ -1519,8 +1519,8 @@
  background-color: #bbb1c0;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ti"]{
- background-color: #bcadbe;
+#periodic-table.tc dl[itemid="Ti"]{
+ background-color: #c3d3e6;
 }
 
 #periodic-table.boiling_point dl[itemid="Ti"]{
@@ -1589,8 +1589,8 @@
  background-color: #b9b5c2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="V"]{
- background-color: #beaabc;
+#periodic-table.tc dl[itemid="V"]{
+ background-color: #ad84a9;
 }
 
 #periodic-table.boiling_point dl[itemid="V"]{
@@ -1659,8 +1659,8 @@
  background-color: #b8b7c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cr"]{
- background-color: #b8b6c3;
+#periodic-table.tc dl[itemid="Cr"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Cr"]{
@@ -1729,8 +1729,8 @@
  background-color: #b8b7c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Mn"]{
- background-color: #b2c4cb;
+#periodic-table.tc dl[itemid="Mn"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Mn"]{
@@ -1799,8 +1799,8 @@
  background-color: #b8b7c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Fe"]{
- background-color: #b9b6c2;
+#periodic-table.tc dl[itemid="Fe"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Fe"]{
@@ -1869,8 +1869,8 @@
  background-color: #b8b8c4;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Co"]{
- background-color: #bab2c1;
+#periodic-table.tc dl[itemid="Co"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Co"]{
@@ -1939,8 +1939,8 @@
  background-color: #b7b8c4;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ni"]{
- background-color: #bab3c1;
+#periodic-table.tc dl[itemid="Ni"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ni"]{
@@ -2009,8 +2009,8 @@
  background-color: #b8b7c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cu"]{
- background-color: #b6bbc5;
+#periodic-table.tc dl[itemid="Cu"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Cu"]{
@@ -2079,8 +2079,8 @@
  background-color: #b9b4c2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Zn"]{
- background-color: #adcfd1;
+#periodic-table.tc dl[itemid="Zn"]{
+ background-color: #cce3e4;
 }
 
 #periodic-table.boiling_point dl[itemid="Zn"]{
@@ -2149,8 +2149,8 @@
  background-color: #bab3c1;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ga"]{
- background-color: #b4c0c8;
+#periodic-table.tc dl[itemid="Ga"]{
+ background-color: #a2baca;
 }
 
 #periodic-table.boiling_point dl[itemid="Ga"]{
@@ -2219,8 +2219,8 @@
  background-color: #b9b5c2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ge"]{
- background-color: #b8b7c3;
+#periodic-table.tc dl[itemid="Ge"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ge"]{
@@ -2289,8 +2289,8 @@
  background-color: #b8b6c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="As"]{
- background-color: #a9d7d6;
+#periodic-table.tc dl[itemid="As"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="As"]{
@@ -2359,8 +2359,8 @@
  background-color: #b8b7c3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Se"]{
- background-color: #a8d8d6;
+#periodic-table.tc dl[itemid="Se"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Se"]{
@@ -2429,8 +2429,8 @@
  background-color: #b7b8c4;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Br"]{
- background-color: #a8dad7;
+#periodic-table.tc dl[itemid="Br"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Br"]{
@@ -2499,8 +2499,8 @@
  background-color: #b7b9c5;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Kr"]{
- background-color: #a7dad8;
+#periodic-table.tc dl[itemid="Kr"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Kr"]{
@@ -2569,8 +2569,8 @@
  background-color: #cb8eab;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Rb"]{
- background-color: #aad4d4;
+#periodic-table.tc dl[itemid="Rb"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Rb"]{
@@ -2639,8 +2639,8 @@
  background-color: #c698b2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Sr"]{
- background-color: #afcbcf;
+#periodic-table.tc dl[itemid="Sr"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Sr"]{
@@ -2709,8 +2709,8 @@
  background-color: #c1a4b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Y"]{
- background-color: #bbb1c0;
+#periodic-table.tc dl[itemid="Y"]{
+ background-color: #ede8f0;
 }
 
 #periodic-table.boiling_point dl[itemid="Y"]{
@@ -2779,8 +2779,8 @@
  background-color: #bdabbd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Zr"]{
- background-color: #c49db4;
+#periodic-table.tc dl[itemid="Zr"]{
+ background-color: #d1c8cd;
 }
 
 #periodic-table.boiling_point dl[itemid="Zr"]{
@@ -2849,8 +2849,8 @@
  background-color: #bbb0bf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Nb"]{
- background-color: #ca91ad;
+#periodic-table.tc dl[itemid="Nb"]{
+ background-color: #c96b98;
 }
 
 #periodic-table.boiling_point dl[itemid="Nb"]{
@@ -2919,8 +2919,8 @@
  background-color: #bab2c0;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Mo"]{
- background-color: #c59cb3;
+#periodic-table.tc dl[itemid="Mo"]{
+ background-color: #c4b4bd;
 }
 
 #periodic-table.boiling_point dl[itemid="Mo"]{
@@ -2989,7 +2989,7 @@
  background-color: #bab3c1;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Tc"]{
+#periodic-table.tc dl[itemid="Tc"]{
  background-color: #c895af;
 }
 
@@ -3059,8 +3059,8 @@
  background-color: #b9b4c2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ru"]{
- background-color: #c39fb5;
+#periodic-table.tc dl[itemid="Ru"]{
+ background-color: #dbc7d4;
 }
 
 #periodic-table.boiling_point dl[itemid="Ru"]{
@@ -3129,8 +3129,8 @@
  background-color: #b9b4c2;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Rh"]{
- background-color: #c0a6ba;
+#periodic-table.tc dl[itemid="Rh"]{
+ background-color: #e2dce1;
 }
 
 #periodic-table.boiling_point dl[itemid="Rh"]{
@@ -3199,8 +3199,8 @@
  background-color: #bab3c1;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pd"]{
- background-color: #bab3c1;
+#periodic-table.tc dl[itemid="Pd"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Pd"]{
@@ -3269,8 +3269,8 @@
  background-color: #bbb0bf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ag"]{
- background-color: #b4c0c8;
+#periodic-table.tc dl[itemid="Ag"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ag"]{
@@ -3339,8 +3339,8 @@
  background-color: #beaabc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cd"]{
- background-color: #acd0d2;
+#periodic-table.tc dl[itemid="Cd"]{
+ background-color: #e9dede;
 }
 
 #periodic-table.boiling_point dl[itemid="Cd"]{
@@ -3409,8 +3409,8 @@
  background-color: #bdacbd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="In"]{
- background-color: #b2c3ca;
+#periodic-table.tc dl[itemid="In"]{
+ background-color: #9dcadb;
 }
 
 #periodic-table.boiling_point dl[itemid="In"]{
@@ -3479,8 +3479,8 @@
  background-color: #bcaebe;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Sn"]{
- background-color: #b6bcc6;
+#periodic-table.tc dl[itemid="Sn"]{
+ background-color: #9db5dd;
 }
 
 #periodic-table.boiling_point dl[itemid="Sn"]{
@@ -3549,8 +3549,8 @@
  background-color: #bcaebe;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Sb"]{
- background-color: #aad4d4;
+#periodic-table.tc dl[itemid="Sb"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Sb"]{
@@ -3619,8 +3619,8 @@
  background-color: #bcafbf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Te"]{
- background-color: #aad6d5;
+#periodic-table.tc dl[itemid="Te"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Te"]{
@@ -3689,8 +3689,8 @@
  background-color: #bbb0bf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="I"]{
- background-color: #a8d9d7;
+#periodic-table.tc dl[itemid="I"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="I"]{
@@ -3759,8 +3759,8 @@
  background-color: #bbb1c0;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Xe"]{
- background-color: #a8dad7;
+#periodic-table.tc dl[itemid="Xe"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Xe"]{
@@ -3829,8 +3829,8 @@
  background-color: #cf86a7;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cs"]{
- background-color: #aad4d4;
+#periodic-table.tc dl[itemid="Cs"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Cs"]{
@@ -3899,8 +3899,8 @@
  background-color: #c895b0;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ba"]{
- background-color: #aeccd0;
+#periodic-table.tc dl[itemid="Ba"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ba"]{
@@ -3969,8 +3969,8 @@
  background-color: #c2a1b7;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="La"]{
- background-color: #bbb0bf;
+#periodic-table.tc dl[itemid="La"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="La"]{
@@ -4039,8 +4039,8 @@
  background-color: #c1a3b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ce"]{
- background-color: #bcafbf;
+#periodic-table.tc dl[itemid="Ce"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ce"]{
@@ -4109,8 +4109,8 @@
  background-color: #c1a4b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pr"]{
- background-color: #b6bbc6;
+#periodic-table.tc dl[itemid="Pr"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Pr"]{
@@ -4179,8 +4179,8 @@
  background-color: #c1a4b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Nd"]{
- background-color: #b5bec7;
+#periodic-table.tc dl[itemid="Nd"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Nd"]{
@@ -4249,7 +4249,7 @@
  background-color: #c1a4b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pm"]{
+#periodic-table.tc dl[itemid="Pm"]{
  background-color: #ffffff;
 }
 
@@ -4319,8 +4319,8 @@
  background-color: #c1a4b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Sm"]{
- background-color: #afc9ce;
+#periodic-table.tc dl[itemid="Sm"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Sm"]{
@@ -4389,8 +4389,8 @@
  background-color: #c59bb3;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Eu"]{
- background-color: #aecccf;
+#periodic-table.tc dl[itemid="Eu"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Eu"]{
@@ -4459,8 +4459,8 @@
  background-color: #c1a4b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Gd"]{
- background-color: #b9b5c2;
+#periodic-table.tc dl[itemid="Gd"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Gd"]{
@@ -4529,8 +4529,8 @@
  background-color: #c1a5b9;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Tb"]{
- background-color: #b7b8c4;
+#periodic-table.tc dl[itemid="Tb"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Tb"]{
@@ -4599,8 +4599,8 @@
  background-color: #c0a5b9;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Dy"]{
- background-color: #b2c3ca;
+#periodic-table.tc dl[itemid="Dy"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Dy"]{
@@ -4669,8 +4669,8 @@
  background-color: #c0a6b9;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ho"]{
- background-color: #b3c1c9;
+#periodic-table.tc dl[itemid="Ho"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Ho"]{
@@ -4739,8 +4739,8 @@
  background-color: #c0a6b9;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Er"]{
- background-color: #b4bfc8;
+#periodic-table.tc dl[itemid="Er"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Er"]{
@@ -4809,8 +4809,8 @@
  background-color: #c0a6b9;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Tm"]{
- background-color: #b1c7cc;
+#periodic-table.tc dl[itemid="Tm"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Tm"]{
@@ -4879,8 +4879,8 @@
  background-color: #c39fb6;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Yb"]{
- background-color: #adcdd0;
+#periodic-table.tc dl[itemid="Yb"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Yb"]{
@@ -4949,8 +4949,8 @@
  background-color: #bfa7ba;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Lu"]{
- background-color: #b9b5c2;
+#periodic-table.tc dl[itemid="Lu"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Lu"]{
@@ -5019,8 +5019,8 @@
  background-color: #bdacbd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Hf"]{
- background-color: #c895af;
+#periodic-table.tc dl[itemid="Hf"]{
+ background-color: #ddd7da;
 }
 
 #periodic-table.boiling_point dl[itemid="Hf"]{
@@ -5089,8 +5089,8 @@
  background-color: #bbb0bf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ta"]{
- background-color: #cd8baa;
+#periodic-table.tc dl[itemid="Ta"]{
+ background-color: #da9bb8;
 }
 
 #periodic-table.boiling_point dl[itemid="Ta"]{
@@ -5159,8 +5159,8 @@
  background-color: #bab2c0;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="W"]{
- background-color: #cf86a7;
+#periodic-table.tc dl[itemid="W"]{
+ background-color: #d1cacd;
 }
 
 #periodic-table.boiling_point dl[itemid="W"]{
@@ -5229,8 +5229,8 @@
  background-color: #bab3c1;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Re"]{
- background-color: #ca90ad;
+#periodic-table.tc dl[itemid="Re"]{
+ background-color: #d3a5bc;
 }
 
 #periodic-table.boiling_point dl[itemid="Re"]{
@@ -5299,8 +5299,8 @@
  background-color: #bab3c1;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Os"]{
- background-color: #c798b1;
+#periodic-table.tc dl[itemid="Os"]{
+ background-color: #e9c7d9;
 }
 
 #periodic-table.boiling_point dl[itemid="Os"]{
@@ -5369,8 +5369,8 @@
  background-color: #bab3c1;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ir"]{
- background-color: #c39fb5;
+#periodic-table.tc dl[itemid="Ir"]{
+ background-color: #ddd8db;
 }
 
 #periodic-table.boiling_point dl[itemid="Ir"]{
@@ -5439,8 +5439,8 @@
  background-color: #bab2c0;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pt"]{
- background-color: #c1a5b9;
+#periodic-table.tc dl[itemid="Pt"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Pt"]{
@@ -5509,8 +5509,8 @@
  background-color: #bbb0bf;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Au"]{
- background-color: #b7b9c4;
+#periodic-table.tc dl[itemid="Au"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Au"]{
@@ -5579,7 +5579,7 @@
  background-color: #beaabc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Hg"]{
+#periodic-table.tc dl[itemid="Hg"]{
  background-color: #aad5d5;
 }
 
@@ -5649,8 +5649,8 @@
  background-color: #beaabc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Tl"]{
- background-color: #afcace;
+#periodic-table.tc dl[itemid="Tl"]{
+ background-color: #c8e0e4;
 }
 
 #periodic-table.boiling_point dl[itemid="Tl"]{
@@ -5719,8 +5719,8 @@
  background-color: #beabbc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pb"]{
- background-color: #b0c8cd;
+#periodic-table.tc dl[itemid="Pb"]{
+ background-color: #7bcada;
 }
 
 #periodic-table.boiling_point dl[itemid="Pb"]{
@@ -5789,8 +5789,8 @@
  background-color: #beabbc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Bi"]{
- background-color: #afcbcf;
+#periodic-table.tc dl[itemid="Bi"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Bi"]{
@@ -5859,8 +5859,8 @@
  background-color: #beabbc;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Po"]{
- background-color: #aad5d4;
+#periodic-table.tc dl[itemid="Po"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Po"]{
@@ -5929,7 +5929,7 @@
  background-color: #bdabbd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="At"]{
+#periodic-table.tc dl[itemid="At"]{
  background-color: #ffffff;
 }
 
@@ -5999,8 +5999,8 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Rn"]{
- background-color: #a8d9d7;
+#periodic-table.tc dl[itemid="Rn"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Rn"]{
@@ -6069,7 +6069,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Fr"]{
+#periodic-table.tc dl[itemid="Fr"]{
  background-color: #ffffff;
 }
 
@@ -6139,7 +6139,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ra"]{
+#periodic-table.tc dl[itemid="Ra"]{
  background-color: #ffffff;
 }
 
@@ -6209,7 +6209,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Ac"]{
+#periodic-table.tc dl[itemid="Ac"]{
  background-color: #ffffff;
 }
 
@@ -6279,8 +6279,8 @@
  background-color: #c1a3b8;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Th"]{
- background-color: #c2a1b7;
+#periodic-table.tc dl[itemid="Th"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Th"]{
@@ -6349,7 +6349,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pa"]{
+#periodic-table.tc dl[itemid="Pa"]{
  background-color: #ffffff;
 }
 
@@ -6419,8 +6419,8 @@
  background-color: #bdadbd;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="U"]{
- background-color: #bfa8bb;
+#periodic-table.tc dl[itemid="U"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="U"]{
@@ -6489,7 +6489,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Np"]{
+#periodic-table.tc dl[itemid="Np"]{
  background-color: #ffffff;
 }
 
@@ -6559,8 +6559,8 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Pu"]{
- background-color: #b8b6c3;
+#periodic-table.tc dl[itemid="Pu"]{
+ background-color: #ffffff;
 }
 
 #periodic-table.boiling_point dl[itemid="Pu"]{
@@ -6629,7 +6629,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Am"]{
+#periodic-table.tc dl[itemid="Am"]{
  background-color: #ffffff;
 }
 
@@ -6699,7 +6699,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cm"]{
+#periodic-table.tc dl[itemid="Cm"]{
  background-color: #ffffff;
 }
 
@@ -6769,7 +6769,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Bk"]{
+#periodic-table.tc dl[itemid="Bk"]{
  background-color: #ffffff;
 }
 
@@ -6839,7 +6839,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Cf"]{
+#periodic-table.tc dl[itemid="Cf"]{
  background-color: #ffffff;
 }
 
@@ -6909,7 +6909,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Es"]{
+#periodic-table.tc dl[itemid="Es"]{
  background-color: #ffffff;
 }
 
@@ -6979,7 +6979,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Fm"]{
+#periodic-table.tc dl[itemid="Fm"]{
  background-color: #ffffff;
 }
 
@@ -7049,7 +7049,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Md"]{
+#periodic-table.tc dl[itemid="Md"]{
  background-color: #ffffff;
 }
 
@@ -7119,7 +7119,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="No"]{
+#periodic-table.tc dl[itemid="No"]{
  background-color: #ffffff;
 }
 
@@ -7189,7 +7189,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Lr"]{
+#periodic-table.tc dl[itemid="Lr"]{
  background-color: #ffffff;
 }
 
@@ -7259,7 +7259,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Rf"]{
+#periodic-table.tc dl[itemid="Rf"]{
  background-color: #ffffff;
 }
 
@@ -7329,7 +7329,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Db"]{
+#periodic-table.tc dl[itemid="Db"]{
  background-color: #ffffff;
 }
 
@@ -7399,7 +7399,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Sg"]{
+#periodic-table.tc dl[itemid="Sg"]{
  background-color: #ffffff;
 }
 
@@ -7469,7 +7469,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Bh"]{
+#periodic-table.tc dl[itemid="Bh"]{
  background-color: #ffffff;
 }
 
@@ -7539,7 +7539,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Hs"]{
+#periodic-table.tc dl[itemid="Hs"]{
  background-color: #ffffff;
 }
 
@@ -7609,7 +7609,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Mt"]{
+#periodic-table.tc dl[itemid="Mt"]{
  background-color: #ffffff;
 }
 
@@ -7679,7 +7679,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uun"]{
+#periodic-table.tc dl[itemid="Uun"]{
  background-color: #ffffff;
 }
 
@@ -7749,7 +7749,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uuu"]{
+#periodic-table.tc dl[itemid="Uuu"]{
  background-color: #ffffff;
 }
 
@@ -7819,7 +7819,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uub"]{
+#periodic-table.tc dl[itemid="Uub"]{
  background-color: #ffffff;
 }
 
@@ -7889,7 +7889,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uut"]{
+#periodic-table.tc dl[itemid="Uut"]{
  background-color: #ffffff;
 }
 
@@ -7959,7 +7959,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uuq"]{
+#periodic-table.tc dl[itemid="Uuq"]{
  background-color: #ffffff;
 }
 
@@ -8029,7 +8029,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uup"]{
+#periodic-table.tc dl[itemid="Uup"]{
  background-color: #ffffff;
 }
 
@@ -8099,7 +8099,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uuh"]{
+#periodic-table.tc dl[itemid="Uuh"]{
  background-color: #ffffff;
 }
 
@@ -8169,7 +8169,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uus"]{
+#periodic-table.tc dl[itemid="Uus"]{
  background-color: #ffffff;
 }
 
@@ -8239,7 +8239,7 @@
  background-color: #ffffff;
 }
 
-#periodic-table.enthalpy_of_vaporization dl[itemid="Uuo"]{
+#periodic-table.tc dl[itemid="Uuo"]{
  background-color: #ffffff;
 }
 
